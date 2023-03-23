@@ -3,7 +3,6 @@
 <!--
 **ReemMohdMousa/ReemMohdMousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Self-motivated, fast learner, and hardworking junior full-stack developer, with an electrical engineering background.
 
 Here are some ideas to get you started:
 
@@ -18,3 +17,5 @@ Here are some ideas to get you started:
 -->
 
 I'm a full stack developer...
+Self-motivated, fast learner, and hardworking junior full-stack developer, with an electrical engineering background.
+
