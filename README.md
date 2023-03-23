@@ -31,4 +31,10 @@ Self-motivated, fast learner, and hardworking junior full-stack developer, with 
 <a href="https://expressjs.com" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="40" width="40" />
 </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
+</a>
+<a href="https://git-scm.com/" target="blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" width="40" />
+</a>
 
