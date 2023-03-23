@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 ## About Me
 Self-motivated, fast learner, and hardworking junior full-stack developer, with an electrical engineering background.
-<br/>
 
 
 ## Skills
